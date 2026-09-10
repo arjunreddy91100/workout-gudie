@@ -1,0 +1,10 @@
+{
+  "name": "workout-gudie",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Interactive muscle explorer built with Astra in Codex.",
+  "scripts": {
+    "start": "node server.cjs"
+  }
+}
